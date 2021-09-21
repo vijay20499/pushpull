@@ -1,5 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    printf("palindrome");
+
+    int a=5,b=5;
+    printf("updated palindroeme");
 }
